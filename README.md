@@ -1,6 +1,6 @@
 # Sam's fork of dwm
 
-This is only a fork of the suckless program dwm that has been customized
+This is simply a fork of the suckless program dwm that has been customized
 for personal use on my X200T
 
 ## Modifications 
@@ -9,11 +9,10 @@ for personal use on my X200T
 - Windows key superkey
 - Firefox start key
 
-
 ## Config/Keybinds
 
-dwm is suckless therfore the config and keybinds are in the sourcecode and 
-and can all be found in config.h
+dwm is suckless therfore the config and keybinds are all written into the 
+sourcecode at config.h
 
 ## Patches
 
