@@ -5,7 +5,15 @@ for personal use on my X200T
 
 ## Modifications 
 
-There are currently no patches
+- i3 like keybinds
+- Windows key superkey
+- Firefox start key
+
+
+## Config/Keybinds
+
+dwm is suckless therfore the config and keybinds are the sourcecode and 
+and can all be found in config.h
 
 ## Patches
 
