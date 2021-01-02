@@ -12,7 +12,7 @@ for personal use on my X200T
 
 ## Config/Keybinds
 
-dwm is suckless therfore the config and keybinds are the sourcecode and 
+dwm is suckless therfore the config and keybinds are in the sourcecode and 
 and can all be found in config.h
 
 ## Patches
