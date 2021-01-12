@@ -8,6 +8,7 @@ for personal use on my X200T
 - i3 like keybinds
 - Windows key superkey
 - Firefox start key
+- System tray
 
 ## Config/Keybinds
 
@@ -16,4 +17,4 @@ sourcecode at config.h
 
 ## Patches
 
-There are currently no patches
+- systray
